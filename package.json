@@ -1,13 +1,14 @@
 {
-  "name": "document-brain",
-  "version": "1.0.4",
-  "description": "",
+  "name": "hubot-brain-documentdb",
+  "version": "0.0.1",
+  "description": "Provides an Hubot module for saving brain on Azures documentdb",
+  "repository"  : "https://github.com/DNIDNL/hubot-brain-documentdb",
   "main": "./lib/brain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Dani",
   "license": "ISC",
   "dependencies": {
     "documentdb": "^1.6.0"
