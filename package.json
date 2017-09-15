@@ -1,6 +1,6 @@
 {
   "name": "hubot-brain-documentdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides an Hubot module for saving brain on Azures documentdb",
   "repository"  : "https://github.com/DNIDNL/hubot-brain-documentdb",
   "main": "./lib/brain.js",
